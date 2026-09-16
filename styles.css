@@ -1,0 +1,23 @@
+html{
+    background-color: antiquewhite;
+    font-family: "vesterbro-vf", sans-serif;
+}
+
+.site-header {
+    background-color:darkcyan;
+    color: cornsilk;
+    font-family: "Alfa Slab One", serif;
+    font-size: 60px;
+    line-height: 40px;
+    font-weight: 100;
+    text-align: center;
+}
+
+.callout {
+    color: deepskyblue;
+    font-weight: 900;
+}
+
+.address {
+    text-align: right;
+}
